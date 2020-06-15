@@ -22,10 +22,9 @@ Pada tahap ini menghasilkan visualisasi sebagai berikut :
 <p align="center">
 <img src="https://user-images.githubusercontent.com/46989222/84617996-ef6a4e80-aefa-11ea-8c86-90abdf708544.png" width="300" height="300">
 </p>
+
 ## Klasifikasi
 Klasifikasi dilakukan menggunakan package Keras, metode SVM Linear dilakukan menggunakan package sklearn.svm.
-
-## Hasil Klasifikasi
 Klasifikasi SVM menghasilkan akurasi sebesar **52,05 %** dengan *Confusion matrix* sebagai berikut:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/46989222/84617988-ec6f5e00-aefa-11ea-9d46-1b1a437cdfdd.PNG" width="300" height="200">
